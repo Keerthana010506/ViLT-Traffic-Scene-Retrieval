@@ -43,13 +43,11 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline for traf
 The system retrieves visually similar traffic scenes and generates contextual descriptions based on detected objects and traffic conditions.
 
 ## Sample Output
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a2091fe8-cc1f-4a4c-9284-a42424e12a03" width="850">
-</p>
-
 <p align="center">
   <em>Traffic Scene Retrieval and Analysis using ViLT + RAG</em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a2091fe8-cc1f-4a4c-9284-a42424e12a03" width="850">
 </p>
 
 ## Future Improvements
