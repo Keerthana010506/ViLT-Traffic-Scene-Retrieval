@@ -45,7 +45,7 @@ The system retrieves visually similar traffic scenes and generates contextual de
 ## Sample Output
 
 <p align="center">
-  <img src="sample_output.png" width="850">
+  <img src="https://github.com/user-attachments/assets/YOUR-LINK-HERE" width="850">
 </p>
 
 <p align="center">
