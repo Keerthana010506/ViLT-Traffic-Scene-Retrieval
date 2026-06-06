@@ -1,10 +1,16 @@
+<img width="546" height="463" alt="output1" src="https://github.com/user-attachments/assets/2b21b4f5-1c3b-4327-aacc-97bd4a53fcf3" />
 # Traffic Scene Retrieval and Analysis using ViLT + RAG
 
 ## Overview
 This project implements a Retrieval-Augmented Generation (RAG) pipeline for traffic scene understanding using the BDD100K dataset and ViLT (Vision-and-Language Transformer).
 
 ## Dataset
-This project uses the BDD100K dataset.
+
+- Dataset: BDD100K
+- Images Processed: 500+
+- Embedding Size: 768
+- Retrieval Method: Cosine Similarity
+- Model: ViLT (Vision-and-Language Transformer)
 
 ## Features
 - ViLT-based image embeddings
